@@ -14,6 +14,11 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Swift UI!")
+            Text("Swift UI!")
+            Text("Swift UI!")
+            Text("Swift UI!")
+            Text("Swift UI!")
+            Text("Swift UI!")
         }
         .padding()
     }
